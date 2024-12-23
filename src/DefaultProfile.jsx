@@ -5,6 +5,7 @@ const DefaultProfile = () => {
     return (    
         <div>
         <p>Oh, nothing to see here!</p>
+        <img src="/website.png" />
         </div>
     );
   };
